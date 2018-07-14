@@ -1,0 +1,23 @@
+{
+  "name": "learn-js-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzmitryGrom/LearnJsOOP.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "jasmine": "^3.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzmitryGrom/LearnJsOOP/issues"
+  },
+  "homepage": "https://github.com/DzmitryGrom/LearnJsOOP#readme"
+}
